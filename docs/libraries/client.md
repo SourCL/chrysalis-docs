@@ -39,3 +39,19 @@ If you mainly intend to process value transfers, we recommend you use our statef
 - [Examples](https://iota-c-client.readthedocs.io/en/latest/client_examples.html) - Find starting points or inspiration in the examples.
 - [Repository](https://github.com/iotaledger/iota.c) - Browse through the code and learn what's happening behind the scenes. Pull requests are very welcome!
 - [API Documentation](https://iota-c-client.readthedocs.io/en/latest/api/client.html) - The IOTA Client Library C API Documentation.
+
+---
+The unofficial (Community driven) client library for interacting with the IOTA Tangle allows you to:
+
+- Create messages and transactions.
+- Get messages and outputs
+- Sign transactions.
+- Generate addresses.
+- Interact with an IOTA node.
+- Get funds on testnet
+
+## PHP
+
+- [Getting Started](https://github.com/iota-community/iota.php/blob/main/help/000_index.md) - Getting Started with PHP and the IOTA Client Library.
+- [Examples](https://github.com/iota-community/iota.php/tree/main/examples) - Find starting points or inspiration in the examples.
+- [Repository](https://github.com/iota-community/iota.php) - Browse through the code and learn what's happening behind the scenes.
